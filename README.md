@@ -2,6 +2,7 @@
 Simply download the **QuickMaterial.exe** and place it in the same folder as your materials.
 For instance, if your project is in the S&Box's default project location, it should be placed here:
 `s&box projects\PROJET_NAME\Assets\materials\QuickMaterial.exe`
+
 The program will automatically generate a default VMAT file for each PNG file inside the folder and **all of its subfolders**.
 
 The program will not overwrite any existing VMAT files, so you won't accidentally overwrite your meticulously made materials with default settings, but I'd highly advise backing up your materials just in case, the program was not thoroughly tested.
